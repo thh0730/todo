@@ -17,5 +17,4 @@ yarn serve
 ## 视频 BV 号: BV1h7411N7bg
 
 ## 主要内容
-
-![项目截图]https://raw.githubusercontent.com/thh0730/todo/master/src/assets/%E9%A1%B9%E7%9B%AE%E6%88%AA%E5%9B%BE.png
+![项目截图]http://m.qpic.cn/psc?/V11FTXVK30Whyk/dfwEskOxAyeaKpvqF0nP8ER7mGIznMuA7gRUXpSk*UbBVVXeqtIgqs0N*FXTyF8MDBXn2D0huGsoaM93PxZkw00*KXxUCborWNL.iu*HIJ4!/b&bo=ngKDAQAAAAADFyw!&rf=viewer_4
