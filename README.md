@@ -18,4 +18,4 @@ yarn serve
 
 ## 主要内容:
 
-![image]https://github.com/thh0730/todo/blob/master/src/assets/%E9%A1%B9%E7%9B%AE%E6%88%AA%E5%9B%BE.png
+![image]https://raw.githubusercontent.com/thh0730/todo/master/src/assets/%E9%A1%B9%E7%9B%AE%E6%88%AA%E5%9B%BE.png
