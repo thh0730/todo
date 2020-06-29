@@ -11,11 +11,9 @@
 		<a-list bordered :dataSource="infoList" class="dt_list">
 			<a-list-item slot="renderItem" slot-scope="item">
 				<!-- 复选框 -->
-				<a-checkbox
-					:checked="item.done"
-					@change="cbStatusChanged(item.id)"
-					>{{ item.info }}</a-checkbox
-				>
+				<a-checkbox :checked="item.done" @change="cbStatusChanged(item.id)">{{
+					item.info
+				}}</a-checkbox>
 				<!-- 删除链接 -->
 				<a slot="actions" @click="removeItemById(item.id)">删除</a>
 			</a-list-item>
@@ -57,7 +55,6 @@ export default {
 		return {}
 	},
 	methods: {
-		// 测试修改
 		...mapActions(['getList', '']),
 		...mapMutations([
 			'setInputValue',
